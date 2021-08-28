@@ -4,11 +4,11 @@ author: joklek
 title:  "Advice for your (first) job interview"
 ---
 
-Ah, the first job interview. It probably feels like a step into a new chapter of your life, at least it did for me. It also felt like I didn't know what to expect and what to do: Apply to many jobs, or one? How should I act during the interview? These and many more questions made it hard(er) to sleep. I googled, I tried and practiced, made mistakes, as will everyone, and finally, I got an offer for my first job. Since then, I've participated in many interviews, mainly on the interviewee side of the table, and it feels like I've gathered some thoughts and even advice to people like me. I hope you find the advice useful, or at least - entertaining.
+Ah, the first job interview. It probably feels like a step into a new chapter of your life, at least it did for me. It also felt like I didn't know what to expect and what to do: apply to many jobs, or one? How should I act during the interview? These and many more questions made it hard(er) to sleep. I googled, I tried and practiced, made mistakes, as will everyone, and finally, I got an offer for my first job. Since then, I've participated in many interviews, mainly on the interviewee side of the table, and it feels like I've gathered some thoughts and even advice to people like me. I hope you find the advice useful, or at least - entertaining.
 
 ## Finding positions to apply to
 1. Apply to as many interviews as possible. Do you like some company and see that they have open positions? Go for it. They don't have any open positions? Maybe email the company with your CV and what kind of job you'd like to hear about, when they have an open position. Don't have a company you fancy? Find a list of job openings and go through them. It might be your region specific job ad site or even Linkedin.
-2. Do your research before applying and especially the interview. What kind of products or services does the company provide? What kind of press do they have, any negative news? Are there any official statistics provided on the amount of employees? Salaries? [^1]. Reading the product/service/support reviews might also be useful, but remember that people tend to leave more negative reviews, than positive ones. Read the job description - what kind of technologies are they using, which ones do you know? Read about the ones that you don't know. What are the benefits? Where's the office? Are there any mentions of remote work? Check Linkedin, maybe you know someone working there, they might have some more valuable insights.
+2. Do your research before applying and especially the interview. What kind of products or services does the company provide? What kind of press do they have, any negative news? Are there any official statistics provided on the amount of employees? Salaries?[^1]. Reading the product/service/support reviews might also be useful, but remember that people tend to leave more negative reviews, than positive ones. Read the job description - what kind of technologies are they using, which ones do you know? Read about the ones that you don't know. What are the benefits? Where's the office? Are there any mentions of remote work? Check Linkedin, maybe you know someone working there, they might have some more valuable insights.
 
 You can do this in iterations or in a big bang fashion. Either way, you'll have to wait a bit. Turn off your do-not-disturb mode on your phone and wait. Some companies might ignore you, but that's their problem.
 ## Post-application period and the first interview
@@ -28,6 +28,8 @@ Your first interview is done. Take some time before the next ones. Rinse and rep
 10. Don't get down if you get rejected. Maybe they're not ready for your greatness, it's their loss. Maybe they expect a senior for a juniors pay, bullet dodged. You already seeded some contacts, which might become useful later in your career. If possible and it's not already provided, ask for feedback, why were you not chosen and what went good. Remember the interview and don't forget that you probably learned a lot from it, especially from your first ones. How should you talk, did you stutter while telling your short life story? What kind of questions were interesting, but you forgot to ask? If you followed step #1, you probably have more job interviews coming up, you'll get your job eventually.
 
 Good luck and good hunting.
+
+Footnotes:
 
 [^1]: For example, in Lithuania company information can be found in [https://rekvizitai.lt](rekvizitai.lt).
 
