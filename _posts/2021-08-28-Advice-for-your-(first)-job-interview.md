@@ -31,7 +31,7 @@ Good luck and good hunting.
 
 Footnotes:
 
-[^1]: For example, in Lithuania company information can be found in [https://rekvizitai.lt](rekvizitai.lt){:target="_blank"}{:rel="noopener noreferrer"}.
+[^1]: For example, in Lithuania company information can be found in [rekvizitai.lt](https://rekvizitai.lt){:target="_blank"}{:rel="noopener noreferrer"}.
 
 [^2]: This should probably be common sense in all real life situations.
 
