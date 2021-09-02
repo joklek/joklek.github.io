@@ -4,7 +4,7 @@ author: joklek
 title:  "How to stop EN (UK) keyboard randomly showing up in Windows"
 ---
 
-This is a quick blogpost to explain and guide you on how to solve a problem in Windows that I've been living with for a few years already, and it is driving me mad, as a bilingual user and I am VERY happy to find and share the solution with you. Let's go.
+This is a quick blogpost to explain and guide you on how to solve a problem in Windows that I've been living with for a few years already, and it is driving me mad. As a bilingual user, I am VERY happy to find and share the solution with you. Let's go!
 
 ## Step 1a)
 First, in your Settings app, or in start menu go to "Region Settings". There, click on "Additional date, time & regional settings" at the bottom or left side of the window.
