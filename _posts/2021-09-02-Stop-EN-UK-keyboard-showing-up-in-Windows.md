@@ -27,7 +27,7 @@ Select the "Administrative" tab and then select "Change system locale...". This 
 ![Select the "Administrative" tab and then select "Change system locale..."](/assets/region_settings.png)
 
 ## Step 4)
-Select your main locale (probably `English (United States)`)
+Select your main locale (in my case, I needed it to be `English (United States)`)
 
 ![Select your main locale (probably English (United States))](/assets/region_settings_2.png)
 
