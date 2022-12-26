@@ -4,11 +4,11 @@ author: joklek
 title: "What I would tell myself if I got sudden amnesia and then wanted to get into software engineering after it"
 ---
 
-(The alternative title for this post is "Advice that I would give for a younger self")
-
 I've been working as a software engineer for close to 4 years, and I want to share some bits of knowledge or just plain old pieces of advice that I've gathered over this time. It's not a monumental amount of time, and I'm in no way a guru in this field, but I hope that these insights might be at least relatable for someone.
 
 And just before I start, I know that this topic has been explored [^1] [^2] [^3] [^4] quite extensively, but I want to share my own take on this. It helps me to sleep better.
+
+(The alternative title for this post is "Advice that I would give for a younger self")
 
 # The Advice
 
