@@ -6,7 +6,7 @@ title: "What I would tell myself if I got sudden amnesia and then wanted to get 
 
 I've been working as a software engineer for close to 4 years, and I want to share some bits of knowledge or just plain old pieces of advice that I've gathered over this time. It's not a monumental amount of time, and I'm in no way a guru in this field, but I hope that these insights might be at least relatable for someone.
 
-And just before I start, I know that this topic has been explored [^1] [^2] [^3] [^4] quite extensively, but I want to share my own take on this. It helps me to sleep better.
+And just before I start, I know that this topic has been explored [^1] [^2] [^3] [^4] [^5] quite extensively, but I want to share my own take on this. It helps me to sleep better.
 
 (The alternative title for this post is "Advice that I would give for a younger self")
 
@@ -22,7 +22,7 @@ And just before I start, I know that this topic has been explored [^1] [^2] [^3]
 4. When tackling a difficult task, especially in cases where you don't understand the scope, try to allocate some time to "**divide and conquer**" it. Look around the code, try to write down observations and possible steps and solutions. These steps then can be later converted to subtickets or plain old checklist, for you not to miss anything.
 5. **Don't forget to challenge the truths given by your superiors**. Sometimes this reveals cracks in the processes, sometimes not, either way it's good to have a deeper understanding of the business logic. This also includes people who you consider as more senior than you. If their answer to your question is unclear, challenge it, it's possible that you have more context than you'd expect.
 6. **Try to avoid context switching**. Sure, you look like a leet hacker that way, but most of the time you will manage to cover only the surface level information. At least for me, context switching results in fatigue and I lose the ability to focus.
-7. **Do grunt work and automate**. Doing things manually might provide you some insights on how things could be automated. Doing things that no one wants to do will improve the life for you and others, and you might uncover issues that lurked in the dark for quite some time[^5].
+7. **Do grunt work and automate**. Doing things manually might provide you some insights on how things could be automated. Doing things that no one wants to do will improve the life for you and others, and you might uncover issues that lurked in the dark for quite some time[^6].
 8. **Prioritize tasks and have a backlog of stuff you want to do**. Dropping stuff just because it looks interesting is not always the best approach, especially when you have a fire in the house. Write that stuff down, create tickets. This increases the chances of it being completed and not forgotten. Even if that issue will be tackled not by you, it won't be lost to time and found at the worst moment. 
 9. **Take care of tech debt** if your situation and processes allow it, try to . Allocate some time for misc fixes of problems in your backlog. Outdated dependencies? Broken formatting? Mystery log entries? Flaky alerts? Easy to fix Sonar issues? Be a good scout, make the code look better than the code before you.
 10. **Do not underestimate yourself**. I know "junior" developers who have 3 years of experience and they have adequate capabilities, but they tend to undervalue themselves, thus reducing their observed value and even capacity. The truth is that everyone googles things, everyone forgets things, most people say inaccurate things, oh and everyone makes mistakes. Even if you don't have a full picture of some issue, you might have some useful insights.
@@ -58,7 +58,7 @@ And just before I start, I know that this topic has been explored [^1] [^2] [^3]
 
 tl;dr **Stay active, pay attention to people and be critical**. Being active and attentive pays off. Technology and organisations need people to operate, so don't neglect human connections. Take everything with a grain of salt - critical thinking is key. Write down things you like and you don't. *Take this tip with a grain of salt too, though.*
 
-Anyways, that's all for my old man's advice. The sad thing is, that I am not always following these myself, I only seek to do so. We'll how I see the world in 4 more years of software engineering[^6].
+Anyways, that's all for my old man's advice. The sad thing is, that I am not always following these myself, I only seek to do so. We'll how I see the world in 4 more years of software engineering[^7].
 
 Bye bye.
 
@@ -72,6 +72,8 @@ Footnotes:
 
 [^4]: A post with insights which seem very relatable [https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
 
-[^5]: Similar idea expressed here [https://www.joelonsoftware.com/2001/12/25/getting-things-done-when-youre-only-a-grunt/](https://www.joelonsoftware.com/2001/12/25/getting-things-done-when-youre-only-a-grunt/)
+[^5]: General advice which seems very related to how I see the world [https://arne.me/articles/30-bits-of-advice-for-30-years](https://arne.me/articles/30-bits-of-advice-for-30-years)
 
-[^6]: I also understand that your mileage might vary. I've been lucky enough to work in the places, where most of the time I didn't have tight deadlines, my environment wasn't toxic and I had space for my personal and professional growth.
+[^6]: Similar idea expressed here [https://www.joelonsoftware.com/2001/12/25/getting-things-done-when-youre-only-a-grunt/](https://www.joelonsoftware.com/2001/12/25/getting-things-done-when-youre-only-a-grunt/)
+
+[^7]: I also understand that your mileage might vary. I've been lucky enough to work in the places, where most of the time I didn't have tight deadlines, my environment wasn't toxic and I had space for my personal and professional growth.
