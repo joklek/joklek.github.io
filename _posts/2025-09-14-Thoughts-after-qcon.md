@@ -1,12 +1,10 @@
 ---
 layout: post
 author: joklek
-title: "I attended QCon London 2025 and wanted to share my thoughts - better late than never!"
+title: "Thoughts after QCon London 2025"
 ---
-
 I attended QCon London 2025 and wanted to share my thoughts - better late than never!
 
-# The conference
 There were multiple tracks, each varying in technical depth. I focused mainly on these tracks, with a few sessions from others mixed in:
 
 * The Path to Senior Engineering Leadership
