@@ -1,8 +1,7 @@
-
 ---
 layout: post
 author: joklek
-title: "Thoughts after QCon London"
+title: "I attended QCon London 2025 and wanted to share my thoughts - better late than never!"
 ---
 
 I attended QCon London 2025 and wanted to share my thoughts - better late than never!
