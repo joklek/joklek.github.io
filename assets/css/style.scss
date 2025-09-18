@@ -47,3 +47,40 @@ h1 > a {
   .post-wrapper { display: block; }
   .post-toc { display: none; }
 }
+
+/* Site-wide footer (social logos) */
+.site-wide-footer {
+  border-top: 1px solid rgba(0,0,0,0.06);
+  margin-top: 2rem;
+  padding: 1rem 0;
+  background: transparent;
+}
+.site-wide-footer__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+.site-wide-footer__inner {
+  max-width: 64rem;
+  margin: 0 auto;
+  padding: 0 6rem;
+}
+.site-wide-footer__left { color: rgba(0,0,0,0.6); }
+.site-wide-footer__right { display: flex; gap: 0.5rem; align-items: center; }
+.site-wide-footer__right .logo-link img { display: block; height: 2rem; width: auto; }
+.site-wide-footer__right .logo-link { display: inline-block; opacity: 0.95; }
+.site-wide-footer__right .logo-link:hover { opacity: 1; }
+
+@media (max-width: 900px) {
+  .site-wide-footer__inner { flex-direction: column; align-items: center; text-align: center; }
+  .site-wide-footer__right { margin-top: 0.5rem; }
+}
+
+@media (max-width: 64rem) {
+  .site-wide-footer__inner { padding: 0 4rem; }
+}
+
+@media (max-width: 42rem) {
+  .site-wide-footer__inner { padding: 0 1rem; }
+}

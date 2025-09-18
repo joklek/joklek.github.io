@@ -29,5 +29,20 @@
         {% endif %}
     </footer>
 </main>
+<div class="site-wide-footer">
+    <div class="site-wide-footer__inner">
+        <div class="site-wide-footer__left">
+            <small>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</small>
+        </div>
+        <div class="site-wide-footer__right">
+            <a class="logo-link" href="https://github.com/joklek/" aria-label="GitHub profile for joklek" target="_blank" rel="noopener noreferrer">
+                <img src="{{ '/assets/logos/github.png' | relative_url }}" alt="GitHub logo">
+            </a>
+            <a class="logo-link" href="https://www.linkedin.com/in/joklek/" aria-label="LinkedIn profile of joklek" target="_blank" rel="noopener noreferrer">
+                <img src="{{ '/assets/logos/linkedin.png' | relative_url }}" alt="LinkedIn logo">
+            </a>
+        </div>
+    </div>
+</div>
 </body>
 </html>
