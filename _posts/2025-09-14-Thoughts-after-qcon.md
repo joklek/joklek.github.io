@@ -1,7 +1,7 @@
 ---
 layout: post
 author: joklek
-title: "Thoughts after QCon London 2025"
+title: "Thoughts on QCon London 2025"
 ---
 I attended QCon London 2025 and wanted to share my thoughts - better late than never!
 
@@ -34,7 +34,7 @@ Change your approach as the scope scales. Don’t brute-force through the proble
 Team structure, expectations, and communication are key. This point was repeated multiple times in the talks I was in. The problems we face are “just” people problems. Not in the sense that they’re small, but in the sense that people are the most complicated part in organizations, not the tech. Back the culture you want to grow and use organizational tools to form it. One of the extreme examples was using firing to show what behavior is unacceptable, even if the talent is good.
 
 
-## Small reorgs > Big reorgs
+### Small reorgs > Big reorgs
 Continuously evolve structure. Small adjustments don’t disturb the whole organization and let you make changes when you need them. This is the part that felt that organizational refactorings seem similar code refactorings. Don’t let design debt marinate - fix it when you can, or else you’ll have a lot of trouble in friction happen later. "Don’t boil the ocean - work inside out". And honestly, I’ve never heard reorgs being presented with this perspective. I imagine it’s impossible to avoid them in a growing org, but I rarely registered them as this sort of organizational tool.
 
 ### Bad decisions are better than no decisions 
@@ -61,7 +61,7 @@ Some keywords/ideas I caught during the talks:
     * [From Dashboard Soup to Observability Lasagna: Building Better Layers](https://www.youtube.com/watch?v=rFBltLClyqA) by Martha Lambert was a talk that felt like it came from someone who's working on the same problems that I have, and coming up with approaches that I haven't thought of. It basically talks about the usual problem of messy and improvised monitoring setups that people set up ad-hoc, and suggests ways to layer information to make it more accessible, meaningful and useful. And best of all, these were real life examples of how their company does it, not just plain theory. Monitoring lasagna, drill exercises, and spice on top.
 
 
-# Thoughts 6 months after
+# Thoughts 6 months after the conference
 I liked that during the three days, I heard less bullshit than I expected. Some talks were really boring, but it was a quick switch from one room to another to find a better one. I do have a feeling that next time I'd like to see more technical talks.
 
 Also talking a bout the conference, there were 2 talks that stuck with me the most. It was "[The Principal Engineer's Path: Skills, Strategies, and Lessons Learned](https://qconlondon.com/presentation/apr2025/principal-engineers-path-skills-strategies-and-lessons-learned)" by Sophie Weston, and "[From Dashboard Soup to Observability Lasagna: Building Better Layers](https://www.youtube.com/watch?v=rFBltLClyqA)" by Martha Lambert.

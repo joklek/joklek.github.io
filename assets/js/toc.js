@@ -3,13 +3,12 @@ document.addEventListener('DOMContentLoaded', function () {
   var outline = document.getElementById('post-outline');
   if (!content || !outline) return;
   // Prefer H1 found on the page (title) as the top-level TOC entry.
-  var pageTitle = document.querySelector('h1');
+  var pageTitle = document.querySelector('h1.post-title');
   var headings = Array.prototype.slice.call(content.querySelectorAll('h1, h2, h3, h4'));
   if (pageTitle && !headings.includes(pageTitle)) {
     // Ensure the page title is the first entry
     headings.unshift(pageTitle);
   }
-  headings = headings;
   if (!headings.length) { outline.style.display = 'none'; return; }
 
   function slugify(text) {
