@@ -14,3 +14,36 @@
 h1 > a {
   color: inherit
 }
+
+/* Post outline (table of contents) styles */
+.post-wrapper {
+  display: flex;
+  gap: 2rem;
+}
+
+.post-main {
+  flex: 1 1 0;
+}
+
+.post-toc {
+  width: 220px;
+  flex: 0 0 220px;
+}
+
+.outline {
+  position: sticky;
+  top: 1rem;
+  padding: 0.5rem 1rem;
+  border-left: 3px solid rgba(0,0,0,0.05);
+  font-size: 0.95rem;
+}
+
+.outline ol { list-style: none; padding-left: 0; margin: 0; }
+.outline li { margin: 0.25rem 0; }
+.outline a { color: inherit; text-decoration: none; }
+.outline a.active { font-weight: 600; color: #157878; }
+
+@media (max-width: 900px) {
+  .post-wrapper { display: block; }
+  .post-toc { display: none; }
+}
